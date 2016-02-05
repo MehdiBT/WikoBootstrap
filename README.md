@@ -1,2 +1,2 @@
 # WikoBootstrap
-Constructeur Wiko
+Constructeur Wiko Mobile
